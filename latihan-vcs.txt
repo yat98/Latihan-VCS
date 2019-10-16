@@ -1,3 +1,3 @@
-Hello Github!!!
 To Do :
-- Belajar Menggunakan Github melalui Website
+- Belajar Menggunakan Github melalui Website Github
+- Belajar Menggunakan Commit melalui Website Github
